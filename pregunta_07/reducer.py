@@ -11,4 +11,4 @@ if __name__ == '__main__':
 
         num = int(num)
 
-        sys.stdout.write("{}\t{}\t{}\n".format(letter, date, num)) 
+        sys.stdout.write("{}   {}   {}\n".format(letter, date, num)) 
